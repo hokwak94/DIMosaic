@@ -2,7 +2,9 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\Users\user\PycharmProjects\flaskProject1\.idea/dataSources/
+/../../../../../../:\Users\jmh\PycharmProjects\DIMosaic\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/embedding_model/
+/machine_model/
